@@ -1,8 +1,12 @@
 import React from 'react'
+import { StyledHome } from '../styles/Home.style'
+import Navbar from '../navBar/Navbar'
 
 const Home = () => {
   return (
-    <div>BRR: Luxury hotel projectimizni boshlemiz!</div>
+    <StyledHome>
+        <Navbar/>
+    </StyledHome>
   )
 }
 
