@@ -3,6 +3,8 @@ import styled from 'styled-components';
 export const Nav = styled.div`
 padding: 0 150px;
 display: flex;
+/* flex-direction: row;
+position: fixed; */
 
 @media (max-width: 768px) {
     flex-direction: column;
