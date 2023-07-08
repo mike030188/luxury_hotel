@@ -13,7 +13,7 @@ height:1080px;
 
 `
 
-export const Title = styled.div`
+export const TitleUp = styled.div`
 display:flex;
 flex-direction: column;
 color: #FFF;
@@ -53,11 +53,12 @@ p{
 }
 `
 
-export const ParagraphUp = styled.div`
+export const Paragraph = styled.div`
 display: flex;
 justify-content: center;
 align-items: center;
 height: 220px;
+text-align: center;
 
 p{
     color: #14274A;

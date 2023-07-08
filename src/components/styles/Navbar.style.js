@@ -4,6 +4,10 @@ export const Nav = styled.div`
 padding: 0 150px;
 display: flex;
 
+@media (max-width: 768px) {
+    flex-direction: column;
+    
+}
 `
 export const Div = styled.div`
 display: flex;
@@ -23,5 +27,8 @@ div{
     }
 }
 
+@media (max-width: 768px) {
+    flex-direction: column;
+}
 
 `
