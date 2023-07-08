@@ -62,7 +62,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 height: 220px;
-text-align: center;
+/* text-align: center; */
 
 p{
     color: #14274A;
