@@ -50,6 +50,10 @@ p{
     font-weight: 400;
     line-height: normal;
     letter-spacing: 2.5px;
+    animation-duration: 3s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
 }
 `
 
