@@ -13,7 +13,7 @@ const ContactUs = () => {
       <Navbar/>
       <h4>CONTACT-US</h4>
       <Container style={{height:'1852px'}}>
-        <Paragraph contactUs style={{display: 'flex', flexDirection:'column', textAlign:'left', height:'580px', border:'1px solid black'}}>
+        <Paragraph contactUs style={{display: 'flex', flexDirection:'column', textAlign:'left', height:'580px'}}>
           <h5>WE ARE HERE FOR YOU</h5>          
           <p style={{fontSize:''}}> 
             At Luxury Hotels, we take our customers seriously. Do you have any enquiries, compaints or requests, <br/>

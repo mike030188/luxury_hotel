@@ -37,7 +37,7 @@ p{
 export const MidWrap = styled.div`
 display: flex;
 padding: 0 150px;
-border: 1px solid #14274A;
+/* border: 1px solid #14274A; */
 
 div{
     flex: 1;
